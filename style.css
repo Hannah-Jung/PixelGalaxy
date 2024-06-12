@@ -1,0 +1,152 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.btn-outline-success {
+  color: #1f0044;
+  background-color: white;
+  border-color: #fbd200;
+  --bs-btn-active-border-color: #4C336A;
+  --bs-btn-active-bg: #4C336A;
+  --bs-btn-active-color: #fbd200;
+}
+
+.nav-link {
+  color: #1f0044;
+  font-weight: 500;
+  transition: none;
+}
+
+.nav-link:hover{
+  background-color: #1f0044;
+  color: #fbd200;
+  box-shadow: 0 0 50px #B8AEC4;
+  border-radius: 20px;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  background-color: #1f0044;
+  color: #fbd200;
+  box-shadow: 0 0 50px #B8AEC4;
+  border-radius: 20px;
+}
+
+.container-fluid {
+  background-color: #fbd200;
+}
+
+.logo {
+  border: 2px solid #1f0044;
+  border-radius: 25px;
+  width: 125px;
+}
+
+footer {
+  background-color: #1f0044;
+  color: #B8AEC4;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 200px; 
+  object-fit: cover;
+}
+
+.first-line{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+  align-items: center;
+  border-bottom: 1px solid #4C336A;
+}
+
+.fa-brands-display {
+  display: flex;
+  margin: 10px;
+  padding: 0;
+  font-size: 35px;
+  align-items: center;
+}
+
+.fa-brands-hover:hover {
+  box-shadow: 0 0 50px #B8AEC4;
+  background-color: #fbd200;
+  color: #4C336A;  
+}
+
+.sns-icon{
+  width: 50px;
+  height: 50px;
+  background-color: #4C336A;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.first-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.second-line {
+  color: #B8AEC4;
+  border-bottom: 1px solid #4C336A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.third-line {
+  color: #B8AEC4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.second-line-hover:hover {
+  text-decoration: underline;
+  color: #fbd200;
+}
+
+body {
+  color: #4C336A;
+}
+
+.btn {
+  background-color: #4C336A;
+  color: #fbd200;
+  transition: none;
+  border-color: #4C336A;
+}
+
+.btn:hover {
+  background-color: #fbd200;
+  color: #4C336A;
+  border-color: #fbd200;
+}
+
+.card-text {
+  color: #4C336A;
+}
+
+.last {
+  margin-right: 0;
+}
+
+@media (max-width: 600px) {
+  .first-line {
+    display: block;
+    text-align: center;
+  }
+  .fa-brands-display {
+    justify-content: center;
+    padding-top: 20px;
+  }
+  .third-line {
+    display: none;
+  }  
+}
