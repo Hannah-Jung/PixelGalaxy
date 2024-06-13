@@ -137,7 +137,7 @@ body {
   margin-right: 0;
 }
 
-.dropdown-menu {
+.dropdown-item {
   --bs-dropdown-link-active-color: #212529;
   --bs-dropdown-link-active-bg: #var(--bs-border-color-translucent);
 }
