@@ -137,6 +137,16 @@ body {
   margin-right: 0;
 }
 
+.dropdown-menu {
+  --bs-dropdown-link-active-color: #212529;
+  --bs-dropdown-link-active-bg: #var(--bs-border-color-translucent);
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border: none;
+}
+
 @media (max-width: 600px) {
   .first-line {
     display: block;
