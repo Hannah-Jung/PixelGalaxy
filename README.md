@@ -8,7 +8,6 @@ Welcome to PixelGalaxy, your ultimate destination for discovering and enjoying y
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -35,13 +34,6 @@ PixelGalaxy is designed to provide a seamless experience for gaming enthusiasts.
 - **Carousel**: Use the carousel to view featured game images.
 - **Game Cards**: Click on the game cards to learn more about each game.
 - **Footer Links**: Use the footer to access additional information about PixelGalaxy.
-
-## Contact
-
-Company: PixelGalaxy  
-Address: 1234 Starlight Ave, Cosmic City, Milkyway, 12345  
-CEO: Supernova  
-Phone: 123-456-7890
 
 ---
 
