@@ -36,5 +36,3 @@ PixelGalaxy is designed to provide a seamless experience for gaming enthusiasts.
 - **Footer Links**: Use the footer to access additional information about PixelGalaxy.
 
 ---
-
-© 2024 PixelGalaxy | All Rights Reserved
